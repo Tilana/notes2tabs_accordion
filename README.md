@@ -38,6 +38,7 @@ It's possible to manually adjust this process by coloring notes in the musescore
 
 
 **(2) Conversion**
+
 Run the *notes2tabs.qml* plugin. Based on the notes coloring in the previous step it will convert them into tablature for button accordion.
 
 Push sections will be marked with bar on top. If there are multiple ways of playing a note, right now, only one is shown.
