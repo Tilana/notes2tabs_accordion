@@ -24,7 +24,7 @@ The following mapping displays the mapping from notes to tablature:
 
 
 
-**(1)  Determine the push and pull sections **
+**(1)  Determine the push and pull sections**
 Apply the script *push_or_pull.qml* to your sheet. It will color the notes in green for pull and red for push sections. When coloring it follows some simple rules:
 
 - With the button accordion some notes can only played as pull or as push notes. If they occur they will determine the current section type
